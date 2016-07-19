@@ -13,3 +13,7 @@ When a potential employee comes to Tangent for a job interview we would like to 
 - Create new interview test
 - Assign interview categories and questions
 - Print the interview test with title page and answers at the end for masking perposes.
+
+## Extended Idea
+
+- Extend a system that can be used to manage the interview process from who the person is, what job they are applying for, what skills they have and their salary expectation (Current Salary, Expected Salary Cost To Company), how far in the process they are (first interview, interview test, prac assignment etc), the status of each step in the process (passed, failed), decline reason etc.
